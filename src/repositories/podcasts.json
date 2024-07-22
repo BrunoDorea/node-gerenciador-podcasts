@@ -1,0 +1,20 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "categories": ["fitness", "saúde"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "RUBENS BARRICHELLO - Flow #339",
+        "videoId": "4KDGTdiOV4I",
+        "categories": ["corrida", "esporte"]
+    },
+    {
+        "podcastName": "dio",
+        "episode": "FELIPÃO DA DIO",
+        "videoId": "0000000",
+        "categories": ["programação", "tecnologia"]
+    }
+]

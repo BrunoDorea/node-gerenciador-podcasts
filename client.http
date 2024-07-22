@@ -1,0 +1,7 @@
+### List Episodes
+GET http://localhost:3333/api/list
+Content-Type: application/json
+
+### Filter Episodes
+GET http://localhost:3333/api/episode?p=dio
+Content-Type: application/json
