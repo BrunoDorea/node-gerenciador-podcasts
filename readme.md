@@ -17,7 +17,8 @@ Um app ao estilo Netflix, aonde possa centralizar diferentes episódio/podcasts 
 
 ## 💻 Tecnologias e Ferramentas
 
-![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=5FA04E&logo=Node.js&logoColor=FFFFFF&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 
 ## 👨🏽‍💻 Autor
 
