@@ -12,8 +12,8 @@ Um app ao estilo Netflix, aonde possa centralizar diferentes episódio/podcasts 
 
 ### ✨ Feature
 
-- Listar os episódios podcasts em sessões de categoria
-- Filtrar episódios por nome de podcasts
+- [x] Listar os episódios podcasts em sessões de categoria
+- [x] Filtrar episódios por nome de podcasts
 
 ## 💻 Tecnologias e Ferramentas
 
